@@ -1,0 +1,6 @@
+## Interface: (Your Interface number)
+## Title: Guild Helper
+## Author: Magnus Haukeboe
+## Version: 0.1
+
+main.lua
